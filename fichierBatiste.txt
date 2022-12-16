@@ -1,1 +1,8 @@
 BONJOUR je n'aime pas les fourchettes
+
+Pour faire une modification on fait :
+git add nom_du_fichier.extantion
+git commit nom_du_fichier.extantion -m "Info"
+git push
+
+Et voilà c'est fait
